@@ -2,4 +2,4 @@ LIST
 DICT
 SET
 TUPLE
-STRING
+bool
